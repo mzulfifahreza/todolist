@@ -6,7 +6,7 @@ A new Flutter application.
 # Cara Install
 1. git clone https://github.com/mzulfifahreza/todolist.git . 
 2. git checkout develop
-3. pub get install
+3. flutter pub get
 4. flutter run
 
 ## Getting Started
